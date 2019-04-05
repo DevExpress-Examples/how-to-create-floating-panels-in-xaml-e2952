@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/DXDocking_FloatingPanels/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXDocking_FloatingPanels/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/DXDocking_FloatingPanels/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXDocking_FloatingPanels/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXDocking_FloatingPanels/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXDocking_FloatingPanels/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create floating panels in XAML
 
